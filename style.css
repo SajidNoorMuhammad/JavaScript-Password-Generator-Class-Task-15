@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-image: linear-gradient(to right, #fa709a 0%, #fee140 100%);
+}
+
+h1{
+    color: #009B77;
+    font-size: 50px;
+    text-decoration: underline;
+}
+
+h3{
+    font-size: 25px;
+    color: #800000;
+}
